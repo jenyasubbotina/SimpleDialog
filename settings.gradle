@@ -1,0 +1,3 @@
+include ':simpledialog'
+include ':app'
+rootProject.name = "SimpleDialog"

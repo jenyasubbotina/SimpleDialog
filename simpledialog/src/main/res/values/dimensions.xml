@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_elevation"> 12dp </dimen>
+    <dimen name="padding"> 15dp </dimen>
+    <dimen name="corner_radius"> 20dp </dimen>
+    <dimen name="button_margin"> 20dp </dimen>
+    <dimen name="close_button"> 20dp </dimen>
+    <dimen name="h1"> 20sp </dimen>
+    <dimen name="h2"> 16sp </dimen>
+</resources>
